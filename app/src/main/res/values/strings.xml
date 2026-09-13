@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">8156366Assignment2</string>
+    <string name="label_muscle_group">Target Muscle Group</string>
+    <string name="label_equipment">Equipment Required</string>
+    <string name="label_difficulty">Difficulty Level</string>
+    <string name="label_calories">Calories Burned Per Hour</string>
+    <string name="label_description">Description</string>
+    <string name="login_title">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Login</string>
+</resources>
