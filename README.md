@@ -16,6 +16,12 @@ The app implements the three required screens as a single-Activity, multi-Fragme
 
 Navigation back-stack behaviour is intentional: Login → Dashboard clears the back stack (so the back button exits rather than returning to a completed login), while Dashboard → Details preserves it (so the back button returns to the already-loaded list without a network refetch).
 
+## Screenshots
+
+| Login | Dashboard | Details |
+|---|---|---|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Details](screenshots/details.png) |
+
 ### Prerequisites
 
 > **Note on tooling versions:** during development, this project's installed Android Studio came bundled with a Gradle/AGP release newer than what's commonly assumed in course material. The versions below are what this project *actually* requires to build — not the "Iguana/Jellyfish"-era tooling sometimes referenced in older guides, which predates the Gradle/AGP versions this project's `build.gradle.kts` files pin.
