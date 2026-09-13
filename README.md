@@ -114,17 +114,9 @@ Square, Inc. (n.d.). *Retrofit: A type-safe HTTP client for Android and Java*. h
 
 Square, Inc. (n.d.). *Moshi: A modern JSON library for Kotlin and Java*. GitHub. https://github.com/square/moshi
 
-*Note: update the year above to match the actual teaching period this unit was undertaken in, and add a VU Collaborate/unit-site URL if your school requires a retrievable link for lecture materials.*
 
 ---
 
 ## 4. Academic Integrity & Generative AI Declaration
 
-In preparing this assignment, a generative AI assistant (Anthropic's Claude) was used as a development aid in accordance with Victoria University's guidelines on the ethical use of generative AI in assessment. Specifically, AI assistance was used to:
-
-- Scaffold boilerplate Android/Kotlin code (data classes, Retrofit interfaces, Hilt modules, ViewModels, adapters, and navigation graphs) based on patterns taught in the NIT3213 lecture materials referenced above.
-- Diagnose and resolve Gradle/Android Gradle Plugin build-configuration issues encountered during setup (Gradle wrapper version compatibility, migration to AGP's built-in Kotlin support, and migrating Hilt's annotation processing from `kapt` to `KSP`).
-- Draft unit test structures using JUnit, MockK, and kotlinx-coroutines-test.
-- Draft and format this README, including its architecture explanation and reference list.
-
-All AI-assisted code, configuration, and documentation was reviewed, tested, and adapted by the student, who takes full responsibility for the final submitted work, its correctness, and its originality. No AI tool was used to generate assessment answers on the student's behalf beyond the drafting/scaffolding/debugging assistance described above, and all external sources of concepts, patterns, and library usage have been credited in the References section.
+Generative AI (Anthropic's Claude) was used during development as a coding and debugging aid — assisting with code scaffolding, Gradle/build troubleshooting, and documentation drafting — in accordance with Victoria University's guidelines on the ethical use of generative AI in assessment. All AI-assisted output was reviewed, tested, and adapted by the student, who takes full responsibility for the correctness and originality of the final submission.
